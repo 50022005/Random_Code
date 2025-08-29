@@ -1,0 +1,23 @@
+﻿  Submission_Updated.cpp
+C:\Users\hp\Downloads\Submission_Updated.cpp(17,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Downloads\Submission_Updated.cpp(27,37): error C2109: subscript requires array or pointer type
+C:\Users\hp\Downloads\Submission_Updated.cpp(31,13): error C2440: 'return': cannot convert from 'char' to 'char *'
+  C:\Users\hp\Downloads\Submission_Updated.cpp(31,13):
+  Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  
+C:\Users\hp\Downloads\Submission_Updated.cpp(39,13): error C2082: redefinition of formal parameter 'book'
+C:\Users\hp\Downloads\Submission_Updated.cpp(53,23): error C2017: illegal escape sequence
+C:\Users\hp\Downloads\Submission_Updated.cpp(139,1): error C2059: syntax error: '}'
+C:\Users\hp\Downloads\Submission_Updated.cpp(139,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\hp\Downloads\Submission_Updated.cpp(143,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\hp\Downloads\Submission_Updated.cpp(143,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hp\Downloads\Submission_Updated.cpp(173,9): error C2144: syntax error: 'float' should be preceded by ';'
+C:\Users\hp\Downloads\Submission_Updated.cpp(174,9): error C2144: syntax error: 'double' should be preceded by ';'
+C:\Users\hp\Downloads\Submission_Updated.cpp(175,9): error C2144: syntax error: 'char' should be preceded by ';'
+C:\Users\hp\Downloads\Submission_Updated.cpp(177,1): error C2143: syntax error: missing ';' before '}'
+  pattern.cpp
+C:\Users\hp\source\repos\Project1\Project1\pattern.cpp(40,13): error C2018: unknown character '0x40'
+C:\Users\hp\source\repos\Project1\Project1\pattern.cpp(40,14): error C2059: syntax error: ')'
+  Test.cpp
+C:\Users\hp\source\repos\Project1\Project1\Test.cpp(1,10): error C1083: Cannot open include file: 'pch.h': No such file or directory
+  Generating Code...
