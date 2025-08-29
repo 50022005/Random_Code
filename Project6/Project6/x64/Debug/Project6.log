@@ -1,0 +1,8 @@
+﻿  main1.cpp
+C:\Users\hp\source\repos\Project6\Project6\Header1.h(87,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main1.cpp')
+  
+C:\Users\hp\source\repos\Project6\Project6\Header1.h(89,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main1.cpp')
+  
+  Project6.vcxproj -> C:\Users\hp\source\repos\Project6\x64\Debug\Project6.exe
