@@ -1,0 +1,13 @@
+﻿  Source.cpp
+  Source1.cpp
+  Generating Code...
+Source1.obj : error LNK2005: "public: __cdecl CAList::CAList(void)" (??0CAList@@QEAA@XZ) already defined in Source.obj
+Source1.obj : error LNK2005: "public: struct CAList::CAEntry & __cdecl CAList::operator=(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??4CAList@@QEAAAEAUCAEntry@0@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Source.obj
+Source1.obj : error LNK2005: "public: class CAList & __cdecl CAList::operator=(struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > const &)" (??4CAList@@QEAAAEAV0@AEBU?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@@Z) already defined in Source.obj
+Source1.obj : error LNK2005: "public: class CAList & __cdecl CAList::operator=(class CAList const &)" (??4CAList@@QEAAAEAV0@AEBV0@@Z) already defined in Source.obj
+Source1.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class CAList const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBVCAList@@@Z) already defined in Source.obj
+Source1.obj : error LNK2005: "public: struct CAList::CAEntry & __cdecl CAList::operator[](class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??ACAList@@QEAAAEAUCAEntry@0@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Source.obj
+Source1.obj : error LNK2005: "public: class CAList __cdecl CAList::operator-(class CAList const &)const " (??GCAList@@QEBA?AV0@AEBV0@@Z) already defined in Source.obj
+Source1.obj : error LNK2005: "public: class CAList __cdecl CAList::operator+(class CAList const &)const " (??HCAList@@QEBA?AV0@AEBV0@@Z) already defined in Source.obj
+Source1.obj : error LNK2005: "public: void __cdecl CAList::operator-=(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??ZCAList@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Source.obj
+C:\Users\hp\source\repos\Project3\x64\Debug\Project3.exe : fatal error LNK1169: one or more multiply defined symbols found
