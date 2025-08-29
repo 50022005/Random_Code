@@ -1,2 +1,2 @@
 # Random_Code
-My Random Code
+This Repo Contains My Random Code.Mostly in C++.Just Random code.
